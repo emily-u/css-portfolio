@@ -1,0 +1,128 @@
+.header{
+    width:938px;
+	height: 30px;
+    padding-bottom: 25px;
+    background-color: aliceblue;
+    margin-top:0px;
+}
+.header h2{
+    display: inline-block;
+    margin-right: 480px;
+    margin-left:10px;
+    background-color: aliceblue;
+}
+.header h3{
+    display: inline-block;
+    background-color: aliceblue;
+    color:black
+}
+span{
+    text-align: right;
+    font-size:20px;
+    background-color:azure;
+}
+body{
+    background-color:rebeccapurple;
+}
+#picture{
+    display:inline-block;
+    vertical-align: top;
+    border:5px solid darkgray;
+    width:385px;
+    height:300px;
+/*    background-image:url(photo_of_me.jpg); */
+/*    padding:10px;*/
+    margin:10px;
+}
+#jayne{
+    width:100%;
+    height:300px;
+}
+#h3about{
+    margin-top: 0px;
+}
+#intro{
+    display:inline-block;
+    vertical-align: top;
+    width:500px;
+    background-color:aliceblue;
+    width：150px;
+    height:310px;
+    padding:0px;
+    margin:10px;
+    color:gray;
+}
+#intro p{
+    margin:10px;
+}
+a{
+    color:gray;
+}
+
+#total3{
+/*    padding:10px;*/
+    margin:10px;
+    
+}
+.la{
+    width:300px;
+    height:200px; 
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.tech img{
+    width:40px;
+    height:40px; 
+    margin:5px
+}
+#total3 p{
+    margin:10px;
+}
+#total3 h3{
+    margin: 0px;
+}
+#first {
+    width: 300px;
+    display:inline-block;
+    height: 570px;
+    background-color: aliceblue;
+}
+#second {
+    width: 300px;
+    display:inline-block;
+    height: 570px;
+    background-color: aliceblue;
+    margin:10px
+}
+#third {
+    width: 300px;
+    display:inline-block;
+    height: 570px;
+    background-color: aliceblue;
+}
+h3{
+    background-color: darkgray;
+    color:white;
+    width：100px;
+    padding:5px;
+}
+button{
+    background-color: green;
+    color:white;
+    display:block;
+    margin-left:120px;
+    
+}
+#ad{
+    background-color: white;
+    color:gray;
+    text-align:center;
+}
+#ad img{
+    width:15px;
+    height:15px;
+}
+#ad p{
+    margin:0px;
+    padding:2px;
+}
